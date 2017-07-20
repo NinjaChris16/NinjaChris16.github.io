@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just your average nerd with above average social skills. Enjoys gaming, programming, and all things computer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+More info to come.
 
 ### Contact me
 
