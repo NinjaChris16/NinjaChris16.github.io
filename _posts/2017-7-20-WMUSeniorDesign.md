@@ -1,7 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: SMBJ Examples
 ---
 
-Working on adding examples of using the SMBJ library as requested by the project owner. </p>
+Working on adding examples of using the SMBJ library as requested by the project owner.
         
