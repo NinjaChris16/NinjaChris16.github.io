@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mighht As Well Do Both
+title: Might As Well Do Both
 ---
 
 Still waiting on a response from the SMBJ Project Lead, 
