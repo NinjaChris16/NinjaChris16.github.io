@@ -12,4 +12,4 @@ More info to come.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[christopher.m.smerek@wmich.edu](mailto:christopher.m.smerek@wmich.edu)
