@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Quick Vacation
+title: Back In Town
 ---
 
 I have returned from a very relaxing vacation in Arizona and am ready to jump back into the SMBJ project.
